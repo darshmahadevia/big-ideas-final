@@ -1,4 +1,5 @@
-# The Yinzer Index
+# The (412) Index
+
 
 ## Team Information
 - Team Name: The Yinzer Index
