@@ -2,7 +2,7 @@
 
 
 ## Team Information
-- Team Name: The Yinzer Index
+- Team Name: The 412 Index
 - Team Members:
   - Darsh ([darsh_email@pitt.edu])
   - [Partner Name] ([partner_email@pitt.edu])
