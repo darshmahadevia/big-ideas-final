@@ -4,9 +4,9 @@
 ## Team Information
 - Team Name: The 412 Index
 - Team Members:
-  - Darsh ([darsh_email@pitt.edu])
-  - [Partner Name] ([partner_email@pitt.edu])
-- Canvas Group Number: [Add Group Number Here]
+  - Darsh ([dam645@pitt.edu])
+  - Nick ([neo28@pitt.edu])
+- Canvas Group Number: 11
 
 ## Project Overview
 This project answers the question "What is the best neighborhood in Pittsburgh?" by combining nightlife, safety, and affordability into one score for young adults moving to the city.
